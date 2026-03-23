@@ -7,7 +7,7 @@ Calcular o consumo mensal de energia de um aparelho.
 Python
 
 ## 📝 Fórmula
-consumo = (potencia * horas * 30) / 1000
+consumoMensal = (potencia * horasDia * 30) / 1000
 
 ## ⌨️ Como usar
 Execute:
